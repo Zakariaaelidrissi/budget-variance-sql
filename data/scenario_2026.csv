@@ -1,0 +1,15 @@
+﻿mois_debut;mois_fin;domaine;evenement;effet_attendu
+2;3;Ventes;Promotion GMS sur la gamme Tradition : prix -7 %, volumes +15 %;Écart prix défavorable, écart volume favorable
+1;10;Ventes;Galettes en forte demande en GMS : volumes +10 %;Écart de mix défavorable (produit à faible marge)
+5;10;Ventes;Hausse tarifaire GMS de 3 % sur la gamme Chocolat;Écart prix favorable
+6;10;Ventes;Perte d'un distributeur britannique : volumes export Chocolat et Dentelle -30 %;Écart volume défavorable, mix défavorable
+1;10;Matières;Chocolat de couverture +8 % (crise du cacao);Écart prix matières défavorable
+4;10;Matières;Envolée du beurre : +15 % à partir d'avril;Écart prix matières défavorable
+8;9;Matières;Panne de la ligne Cookies : rebuts, consommations +9 % sur les Cookies;Écart quantité matières défavorable
+1;10;Main-d'œuvre;Augmentation salariale (NAO) de 3,8 % contre 2,5 % budgétés;Écart taux défavorable
+8;9;Main-d'œuvre;Panne de la ligne Cookies : heures +25 % sur les Cookies;Écart rendement défavorable
+10;10;Main-d'œuvre;Heures supplémentaires pour préparer le pic de Noël : taux +6 %;Écart taux défavorable
+1;10;Distribution;Surcoût carburant à l'export : frais 9,6 % du CA au lieu de 9 %;Frais variables défavorables
+8;9;Charges fixes;Réparation de la ligne Cookies : maintenance +75 k€;Charges fixes défavorables
+9;10;Charges fixes;Campagne de lancement de Noël : marketing +60 k€;Charges fixes défavorables
+1;10;Charges fixes;Renégociation du contrat d'énergie : -5 %;Charges fixes favorables
